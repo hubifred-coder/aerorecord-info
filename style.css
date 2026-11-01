@@ -7,3 +7,5 @@ h2 { font-size: 20px; margin: 32px 0 8px; }
 p.meta { color: var(--muted); margin: 0 0 24px; }
 a { color: var(--accent); }
 li { margin: 4px 0; }
+h2 { margin-top: 48px; padding-top: 16px; border-top: 1px solid color-mix(in srgb, var(--muted) 30%, transparent); }
+h3 { font-size: 17px; margin: 20px 0 6px; }
